@@ -14,7 +14,5 @@ class Solution:
                 ans.append(i)
         return ans
 
-
-
 s= Solution()
 print(s.list_prime(10))

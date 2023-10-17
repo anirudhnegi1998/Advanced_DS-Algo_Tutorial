@@ -12,6 +12,6 @@ class Solution:
         return(helper(s,start,n))
 
 s = Solution()
-print(s.reverse("ABC"))
+print(s.reverse("ABCDERF"))
 
 
